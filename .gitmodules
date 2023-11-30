@@ -1,0 +1,3 @@
+[submodule "src/shm_datastructs/LookingGlass"]
+	path = src/shm_datastructs/LookingGlass
+	url = https://github.com/gnif/LookingGlass
